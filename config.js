@@ -26,7 +26,7 @@ global.webm = 'https://saweria.co/IbnuBotz'
 global.price1 = 'SEWA BOT BY YUUTA 3K PERMANEN'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti jadi foto bot mu
+global.fotonya1 = './media/SAVE_20220618_164334.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
