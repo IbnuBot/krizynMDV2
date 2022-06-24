@@ -57,6 +57,7 @@ const defaultMenu = {
 ⫹⫺ KrizynOfc
 ⫹⫺ RielgansOfc
 ⫹⫺ ArullOfc
+⫹⫺ Ibnu Official 
 ╰─────────────⬣
 `,
 }
