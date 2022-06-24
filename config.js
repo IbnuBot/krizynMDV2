@@ -27,7 +27,7 @@ global.price1 = 'SEWA BOT BY YUUTA 3K PERMANEN'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = './media/SAVE_20220618_164334.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
+global.fotonya2 = './media/SAVE_20220618_164334.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '↻YuutaBoTz-MD'
@@ -36,7 +36,7 @@ global.wm2 = 'YuutaGanz-MD'
 global.wm3 = 'YuutaBotz-MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
+global.media = './media/SAVE_20220618_164334.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu Sedang Proses...'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
